@@ -1,4 +1,4 @@
 phone 
 
-touchscreen-gorilla glass
-
+touchscreen
+scratchless-gorilla glass
